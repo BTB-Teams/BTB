@@ -1,0 +1,16 @@
+html{
+    background-color: darkgray;
+    color:;
+}
+h1,h2,h3{
+    background-color:yellowgreen;
+    color:black;
+    font-size: medium;
+    font-style:"minty green";
+    
+
+}
+p{
+    color: black;
+    background-color: aquamarine;
+}

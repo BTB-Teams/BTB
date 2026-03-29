@@ -1,0 +1,61 @@
+2026-02-12T09:28:02.776706Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-02-12T09:28:03.177628Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2026-02-12T09:28:03.177738Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld (mysqld 8.4.3) starting as process 6996
+2026-02-12T09:28:03.234335Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-02-12T09:28:04.097825Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-02-12T09:28:04.888537Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.4.3-winx64\lib\private\.
+2026-02-12T09:28:04.913098Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-02-12T09:28:04.913861Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-02-12T09:28:04.989599Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2026-02-12T09:28:04.989821Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: ready for connections. Version: '8.4.3'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2026-02-12T09:31:37.636579Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-02-12T09:31:37.946476Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2026-02-12T09:31:37.946636Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld (mysqld 8.4.3) starting as process 6892
+2026-02-12T09:31:37.995997Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-02-12T09:31:37.999573Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2026-02-12T09:31:38.000741Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2026-02-12T09:31:38.001960Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2026-02-12T09:31:38.003488Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2026-02-12T09:31:38.004123Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-02-12T09:31:38.010030Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: Shutdown complete (mysqld 8.4.3)  MySQL Community Server - GPL.
+2026-02-12T09:31:38.011643Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-02-12T09:31:41.363951Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-02-12T09:31:41.712649Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2026-02-12T09:31:41.712760Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld (mysqld 8.4.3) starting as process 1652
+2026-02-12T09:31:41.760458Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-02-12T09:31:41.763240Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2026-02-12T09:31:41.764442Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2026-02-12T09:31:41.765540Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2026-02-12T09:31:41.767114Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2026-02-12T09:31:41.768178Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-02-12T09:31:41.778728Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: Shutdown complete (mysqld 8.4.3)  MySQL Community Server - GPL.
+2026-02-12T09:31:41.782011Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-02-12T09:33:22.102999Z 9 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.3).
+2026-02-12T09:33:22.104249Z 0 [System] [MY-013105] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: Normal shutdown.
+2026-02-12T09:33:23.101343Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: Shutdown complete (mysqld 8.4.3)  MySQL Community Server - GPL.
+2026-02-12T09:33:23.102491Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-02-12T09:33:55.398156Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-02-12T09:33:55.677102Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2026-02-12T09:33:55.677278Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld (mysqld 8.4.3) starting as process 3096
+2026-02-12T09:33:55.719118Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-02-12T09:33:56.795511Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-02-12T09:33:57.540022Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.4.3-winx64\lib\private\.
+2026-02-12T09:33:57.600514Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-02-12T09:33:57.602791Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-02-12T09:33:57.751024Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2026-02-12T09:33:57.751381Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: ready for connections. Version: '8.4.3'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2026-02-12T09:34:07.883487Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-02-12T09:34:08.158835Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2026-02-12T09:34:08.158966Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld (mysqld 8.4.3) starting as process 4388
+2026-02-12T09:34:08.211367Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-02-12T09:34:08.214733Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2026-02-12T09:34:08.215859Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2026-02-12T09:34:08.216955Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2026-02-12T09:34:08.218519Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2026-02-12T09:34:08.219530Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-02-12T09:34:08.227947Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: Shutdown complete (mysqld 8.4.3)  MySQL Community Server - GPL.
+2026-02-12T09:34:08.229709Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-02-12T09:34:52.232830Z 8 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.3).
+2026-02-12T09:34:52.233768Z 0 [System] [MY-013105] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: Normal shutdown.
+2026-02-12T09:34:53.284531Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: Shutdown complete (mysqld 8.4.3)  MySQL Community Server - GPL.
+2026-02-12T09:34:53.286806Z 0 [System] [MY-015016] [Server] MySQL Server - end.
