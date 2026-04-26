@@ -1,7 +1,23 @@
 
 h1{
-    background-color:black;
-    color: white;
+    color:#000000;
     font-family:'Times New Roman', Times, serif;
-    font-size:large;
+    font-size:medium;
+    margin-top: -45px;
+}
+.menu{
+    width: 30px;
+    margin-top: -5px;
+}
+.wtp{
+    width: 60px;
+}
+.fb{
+    width: 60px;
+}
+.yt{
+    width: 55px;
+}
+.link-bar{
+    margin-top: -10px ;
 }

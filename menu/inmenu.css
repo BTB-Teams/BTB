@@ -1,0 +1,7 @@
+.menu{
+    display: block;
+    background-color: #c0c0c0;
+    .menu,button{
+        background-color: yellow;
+    }
+}
