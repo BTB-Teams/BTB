@@ -1,0 +1,16 @@
+body{
+    background-color: skyblue;
+}
+form{
+    background-color: #00ffff;
+}
+.userId{
+    background-color: #008080;
+}
+#valid{
+    background-color: blue; font-size: 15px;
+    font-style: oblique; color: #ffffff;
+}
+#register{
+    background-color: blueviolet; font-size: 15px; 
+         font-style: oblique; color: #ffffff;}

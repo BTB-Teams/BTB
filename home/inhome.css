@@ -1,23 +1,41 @@
-
+body{
+    background-color:skyblue;
+}
+#hlogo{ position:fixed; display:block;
+    height:60px; width:90px;
+    margin-top:-0.3cm; margin-left:-6px;
+    border-radius:9px;
+}
 h1{
-    color:#000000;
-    font-family:'Times New Roman', Times, serif;
-    font-size:medium;
-    margin-top: -45px;
+    text-align:right;
+    font-size:20px;
+    background-color:#ffffff;
+    font-family:monospace;
+    font-style:italic;
+    border-radius:9px;
 }
-.menu{
-    width: 30px;
-    margin-top: -5px;
+#searchB{position:fixed;
+    display:block; margin-left:3.3cm; margin-top:-0.2cm;
+         background-color:#ffff00;
 }
-.wtp{
-    width: 60px;
+#search{position:fixed; display:block;
+    margin-left:8.1cm; margin-top:-0.2cm;
+        background-color:#00ff00;
+        width:40px;
+        height:30px;
+        border-radius:6px;
 }
-.fb{
-    width: 60px;
-}
-.yt{
-    width: 55px;
-}
-.link-bar{
-    margin-top: -10px ;
+#navBar{position:fixed; display:block;
+    word-spacing:0.6cm;
+    background-color:#000000;
+        border-radius:6px;
+       }
+#menu{
+    display:none;
+    background-color:#000000;
+    padding:20px;
+    width:160px;
+    margin-top:1.8cm;
+    border-radius:9px;
+    
 }
